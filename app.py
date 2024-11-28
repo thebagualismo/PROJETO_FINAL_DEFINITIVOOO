@@ -244,7 +244,7 @@ def alterar_wallpaper():
 
 @app.route('/sair_programa')
 def sair_programa():
-    sys.exit()
+    print()
 
 
 
